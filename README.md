@@ -42,9 +42,7 @@ To identify factors contributing to employee attrition and build an interactive 
 - Younger employees tend to have higher attrition.
 
 ## 📷 Dashboard Preview
-
-<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/0158d6e9-17de-4981-b3d5-25f1df345fb4" />
-
+<img width="1917" height="807" alt="dashboard" src="https://github.com/user-attachments/assets/8c4e51b0-6465-4aad-9605-ba896e9c3608" />
 
 ## 📁 Dataset
 
