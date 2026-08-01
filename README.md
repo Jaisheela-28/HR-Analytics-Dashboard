@@ -43,11 +43,8 @@ To identify factors contributing to employee attrition and build an interactive 
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here after uploading dashboard.png)
+<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/0158d6e9-17de-4981-b3d5-25f1df345fb4" />
 
-```
-![Dashboard](dashboard.png)
-```
 
 ## 📁 Dataset
 
